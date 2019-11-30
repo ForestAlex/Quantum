@@ -1,7 +1,8 @@
 # Quantum
 Start Quantum Here 
 
-# Jupyter Notebook: lists and explains the quantum gates applicable in qiskit
+<b>Jupyter Notebook: lists and explains the quantum gates applicable in qiskit</b>
+___________________________________________________________________________
 work-flow:
 1. import qiskit & modules
 2. create a circuit with quantum and classical register
@@ -11,7 +12,8 @@ work-flow:
 
 :) circuit.draw()
 
-# Resources to start with:
+<b>Resources to start with</b>
+_______________________
 https://quantum-computing.ibm.com/
 https://ai.google/research/teams/applied-science/quantum/
 https://qosf.org/learn_quantum/
